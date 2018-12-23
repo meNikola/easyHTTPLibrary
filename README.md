@@ -1,4 +1,4 @@
-# Book List
+# Easy HTTP Library
 
 A simple example application where I showed library for Ajax in OOP (ES5), can be used to create applications..
 
